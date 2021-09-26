@@ -16,7 +16,7 @@ pip install -U scikit-learn
 ```
 
 ```
-python predict.py control.csv
+python WhileTrue_predict.py control.csv
 ```
 
 # team WhileTrue
